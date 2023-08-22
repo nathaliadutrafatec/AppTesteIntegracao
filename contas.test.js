@@ -13,5 +13,5 @@ test("Multiplica 2 * 5 esperado 10 como resultado", () => {
 })
 
 test("Divide 10 / 2 esperado 5 como resultado", () => {
-    expect(contas.soma(10,2)).toBe(5)
+    expect(contas.divisao(10,2)).toBe(5)
 })
